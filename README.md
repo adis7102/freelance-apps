@@ -2,15 +2,13 @@
 
 Soedja Freelance
 
-## Getting Started
+## REMINDER!
 
-This project is a starting point for a Flutter application.
+Don't forget to change storefile key properties so you can build the apps
+###android > key.properties
 
-A few resources to get you started if this is your first Flutter project:
+inside the file, change the storeProperties variable
+from : storeFile=/Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/soedja-key.jks
+to your folder of the apps path in your computer.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+And also don't forget to pub get flutter_launcher_icons, so you can run your flutter apps.
