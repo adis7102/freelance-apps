@@ -1,0 +1,4 @@
+#Thu Nov 26 12:24:08 WITA 2020
+base.0=/Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/transforms/r8/production/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

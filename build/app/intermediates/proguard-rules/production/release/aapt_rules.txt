@@ -1,0 +1,583 @@
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:48
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:376
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:389
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:383
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:354
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:345
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:359
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:117
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:330
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:141
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:339
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:368
+-keep class com.journeyapps.barcodescanner.CaptureActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:325
+-keep class com.midtrans.raygun.RaygunPostService { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:179
+-keep class com.midtrans.sdk.uikit.activities.PaymentMethodsActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:175
+-keep class com.midtrans.sdk.uikit.activities.UserDetailsActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:320
+-keep class com.midtrans.sdk.uikit.views.akulaku.AkulakuActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:261
+-keep class com.midtrans.sdk.uikit.views.banktransfer.list.BankTransferListActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:265
+-keep class com.midtrans.sdk.uikit.views.banktransfer.payment.BankTransferPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:278
+-keep class com.midtrans.sdk.uikit.views.banktransfer.status.MandiriBillStatusActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:274
+-keep class com.midtrans.sdk.uikit.views.banktransfer.status.VaOtherBankPaymentStatusActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:270
+-keep class com.midtrans.sdk.uikit.views.banktransfer.status.VaPaymentStatusActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:299
+-keep class com.midtrans.sdk.uikit.views.bca_klikbca.payment.KlikBcaPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:304
+-keep class com.midtrans.sdk.uikit.views.bca_klikbca.status.KlikBcaStatusActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:308
+-keep class com.midtrans.sdk.uikit.views.bca_klikpay.BcaKlikPayPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:188
+-keep class com.midtrans.sdk.uikit.views.bri_epay.BriEpayPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:192
+-keep class com.midtrans.sdk.uikit.views.cimb_click.CimbClickPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:256
+-keep class com.midtrans.sdk.uikit.views.creditcard.bankpoints.BankPointsActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:243
+-keep class com.midtrans.sdk.uikit.views.creditcard.details.CreditCardDetailsActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:282
+-keep class com.midtrans.sdk.uikit.views.creditcard.register.CardRegistrationActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:252
+-keep class com.midtrans.sdk.uikit.views.creditcard.saved.SavedCreditCardActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:316
+-keep class com.midtrans.sdk.uikit.views.creditcard.tnc.TermsAndConditionsActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:295
+-keep class com.midtrans.sdk.uikit.views.danamon_online.DanamonOnlineActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:238
+-keep class com.midtrans.sdk.uikit.views.gci.GciPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:287
+-keep class com.midtrans.sdk.uikit.views.gopay.payment.GoPayPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:291
+-keep class com.midtrans.sdk.uikit.views.gopay.status.GoPayStatusActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:205
+-keep class com.midtrans.sdk.uikit.views.indomaret.payment.IndomaretPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:209
+-keep class com.midtrans.sdk.uikit.views.indomaret.status.IndomaretStatusActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:200
+-keep class com.midtrans.sdk.uikit.views.indosat_dompetku.IndosatDompetkuPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:230
+-keep class com.midtrans.sdk.uikit.views.kioson.payment.KiosonPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:234
+-keep class com.midtrans.sdk.uikit.views.kioson.status.KiosonStatusActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:183
+-keep class com.midtrans.sdk.uikit.views.mandiri_clickpay.MandiriClickPayActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:196
+-keep class com.midtrans.sdk.uikit.views.mandiri_ecash.MandiriEcashPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:248
+-keep class com.midtrans.sdk.uikit.views.status.PaymentStatusActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:213
+-keep class com.midtrans.sdk.uikit.views.telkomsel_cash.TelkomselCashPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:312
+-keep class com.midtrans.sdk.uikit.views.webview.WebViewPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:226
+-keep class com.midtrans.sdk.uikit.views.xl_tunai.XlTunaiInstructionActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:218
+-keep class com.midtrans.sdk.uikit.views.xl_tunai.payment.XlTunaiPaymentActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:222
+-keep class com.midtrans.sdk.uikit.views.xl_tunai.status.XlTunaiStatusActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:173
+-keep class com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ActionBroadcastReceiver { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:168
+-keep class com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ChromeCustomTabsActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:164
+-keep class com.pichillilorenzo.flutter_inappwebview.InAppBrowser.InAppBrowserActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:48
+-keep class com.soedja.soedja_freelance.Application { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:56
+-keep class com.soedja.soedja_freelance.MainActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:95
+-keep class com.yalantis.ucrop.UCropActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:110
+-keep class de.mintware.barcode_scan.BarcodeScannerActivity { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:112
+-keep class io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:150
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/merged_manifests/productionRelease/AndroidManifest.xml:160
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml:53
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_alert_dialog_title.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_alert_dialog_actions.xml:45
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_alert_dialog.xml:51
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_alert_dialog_title_material.xml:57
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_popup_menu_item_layout.xml:17
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_cascading_menu_item_layout.xml:20
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:43
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_action_mode_bar.xml:19
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_alert_dialog.xml:17
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_user_address.xml:105
+-keep class androidx.appcompat.widget.AppCompatAutoCompleteTextView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_mandiri_clickpay.xml:212
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_kioson_status.xml:85
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_indomaret_status.xml:76
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_danamon_online.xml:28
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bca_klikbca_status.xml:29
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_prima.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_permata.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_mandiri_internet.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_mandiri.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bni_mobile.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bni_internet.xml:15
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bni_atm.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bca_transfer_mbca.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bca.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_atm_bersama.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_alto_bni.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_alto.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_bca_tranfer_click_instruction.xml:14
+-keep class androidx.appcompat.widget.AppCompatButton { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_row_promos.xml:19
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_credit_card_form.xml:224
+-keep class androidx.appcompat.widget.AppCompatCheckBox { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_telkomsel_cash.xml:16
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_mandiri_clickpay.xml:25
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_indosat_dompetku.xml:15
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_gci.xml:15
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_credit_card_form.xml:59
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_transfer_payment.xml:60
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_points.xml:34
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_user_detail.xml:23
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_user_address.xml:55
+-keep class androidx.appcompat.widget.AppCompatEditText { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_alert_dialog_actions.xml:26
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_alert_dialog_title.xml:36
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_screen_simple.xml:17
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_dialog_title_material.xml:22
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_user_address.xml:142
+-keep class androidx.appcompat.widget.SwitchCompat { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout-v26/abc_screen_toolbar.xml:37
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/res/layout/ucrop_activity_photobox.xml:8
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/appbar_payment.xml:9
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_user_details.xml:16
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_tnc.xml:13
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_payments_method.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_screen_simple.xml:25
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8b82793e435830a090b512b640083076/browser-1.2.0/res/layout/browser_actions_context_menu_page.xml:17
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_primary_button.xml:10
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_user_address.xml:25
+-keep class androidx.cardview.widget.CardView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/design_bottom_sheet_dialog.xml:26
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_xl_tunai_status.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_xl_tunai_payment.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_webview_payment.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_tnc.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_telkomsel_cash.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_saved_credit_card.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_payments_method.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_other_bank_status.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_new_mandiri_clickpay.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_mandiri_ecash.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_mandiri_bill_status.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_kioson_status.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_kioson_payment.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_indosat_dompetku.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_indomaret_status.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_indomaret_payment.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_gopay_status.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_gopay_payment.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_gci_payment.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_danamon_online.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_credit_card_register.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_credit_card.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_cimb_click.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bri_epay.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bca_klikpay.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bca_klikbca_status.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bca_klikbca.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bank_transfer_status.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bank_transfer_payment.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bank_transfer_list.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bank_points.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_akulaku.xml:2
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_alert_dialog.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_mandiri_clickpay.xml:56
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_user_detail.xml:1
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_user_address.xml:11
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_xl_tunai.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_prima.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_permata.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_mandiri_internet.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_mandiri.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bni_mobile.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bni_internet.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bni_atm.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bca_transfer_mbca.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bca.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_atm_bersama.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_alto_bni.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_alto.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_bca_tranfer_click_instruction.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_payment_status.xml:10
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_calendar_months.xml:18
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_calendar_horizontal.xml:29
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_saved_credit_card.xml:8
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_credit_card_form.xml:246
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/dialog_bank_list.xml:22
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_xl_tunai_status.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_xl_tunai_payment.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_telkomsel_cash.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_saved_credit_card.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_payments_method.xml:62
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_other_bank_status.xml:56
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_new_mandiri_clickpay.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_mandiri_ecash.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_mandiri_bill_status.xml:56
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_kioson_status.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_kioson_payment.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_indosat_dompetku.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_indomaret_status.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_indomaret_payment.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_gopay_status.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_gopay_payment.xml:46
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_gci_payment.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_danamon_online.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_credit_card.xml:42
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_cimb_click.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bri_epay.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bca_klikpay.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bca_klikbca_status.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bca_klikbca.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bank_transfer_status.xml:56
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bank_transfer_payment.xml:42
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bank_transfer_list.xml:17
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bank_points.xml:53
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_akulaku.xml:41
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/appbar_payment.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_user_details.xml:10
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_tnc.xml:8
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_payments_method.xml:9
+-keep class com.google.android.material.appbar.AppBarLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/test_toolbar_surface.xml:16
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/test_toolbar_elevation.xml:16
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/test_toolbar_custom_background.xml:16
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/test_toolbar.xml:16
+-keep class com.google.android.material.appbar.MaterialToolbar { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_picker_header_fullscreen.xml:36
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_calendar_month_navigation.xml:32
+-keep class com.google.android.material.button.MaterialButton { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/test_reflow_chipgroup.xml:25
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/test_action_chip.xml:17
+-keep class com.google.android.material.chip.Chip { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/test_reflow_chipgroup.xml:19
+-keep class com.google.android.material.chip.ChipGroup { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_calendar_month.xml:18
+-keep class com.google.android.material.datepicker.MaterialCalendarGridView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/design_bottom_navigation_item.xml:27
+-keep class com.google.android.material.internal.BaselineLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_picker_header_toggle.xml:18
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/design_text_input_start_icon.xml:18
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/design_text_input_end_icon.xml:18
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/design_navigation_item.xml:17
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/design_navigation_menu.xml:17
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_layout_snackbar.xml:18
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/design_layout_snackbar.xml:18
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_layout_snackbar_include.xml:18
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/design_layout_snackbar_include.xml:18
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_other_bank_status.xml:9
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_mandiri_bill_status.xml:9
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_transfer_status.xml:9
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_transfer_payment.xml:10
+-keep class com.google.android.material.tabs.TabLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_picker_text_input_date_range.xml:32
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_picker_text_input_date.xml:31
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_credit_card_register.xml:21
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_credit_card_form.xml:178
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bca_klikbca.xml:22
+-keep class com.google.android.material.textfield.TextInputEditText { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_picker_text_input_date_range.xml:26
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/mtrl_picker_text_input_date.xml:26
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_telkomsel_cash.xml:8
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_mandiri_clickpay.xml:15
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_indosat_dompetku.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_gci.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_credit_card_register.xml:15
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bca_klikbca.xml:12
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_transfer_payment.xml:50
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_points.xml:29
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_user_detail.xml:18
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_user_address.xml:48
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/text_view_without_line_height.xml:17
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/text_view_with_theme_line_height.xml:17
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/text_view_with_line_height_from_style.xml:17
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/text_view_with_line_height_from_layout.xml:17
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/res/layout/text_view_with_line_height_from_appearance.xml:17
+-keep class com.google.android.material.textview.MaterialTextView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/res/layout/zxing_barcode_scanner.xml:4
+-keep class com.journeyapps.barcodescanner.BarcodeView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/res/layout/zxing_capture.xml:23
+-keep class com.journeyapps.barcodescanner.DecoratedBarcodeView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/res/layout/zxing_barcode_scanner.xml:9
+-keep class com.journeyapps.barcodescanner.ViewfinderView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_row_saved_cards.xml:46
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_credit_card_register.xml:42
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_credit_card_form.xml:85
+-keep class com.midtrans.sdk.uikit.widgets.AspectRatioImageView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/transaction_item_header.xml:8
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/transaction_item_body.xml:31
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_total_amount.xml:26
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_maintenance.xml:23
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_install_gopay.xml:26
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_gopay_status_tablet.xml:34
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_credit_card_form.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_payment_status.xml:256
+-keep class com.midtrans.sdk.uikit.widgets.BoldTextView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/transaction_item_body.xml:8
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_xl_tunai_status.xml:10
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_xl_tunai.xml:6
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_total_amount.xml:18
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_tnc_bni_point.xml:18
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_telkomsel_cash.xml:26
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_row_saved_cards.xml:69
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_row_promos.xml:8
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_row_payment_methods.xml:46
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_other_bank_status.xml:21
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_other_atm_network_guidance.xml:8
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_midtrans_progress.xml:19
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_mandiri_ecash.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_mandiri_clickpay.xml:10
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_mandiri_bill_status.xml:21
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_maintenance.xml:32
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_kioson_status.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_kioson.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_install_gopay.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_indosat_dompetku.xml:26
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_indomaret_status.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_indomaret.xml:6
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_gopay_status_tablet.xml:50
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_gopay_payment_tablet.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_gopay_payment.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_danamon_online.xml:9
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_credit_card_form.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_cimb_click.xml:8
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bri_epay.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bca_klikpay.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bca_klikbca_status.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bca_klikbca.xml:32
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_transfer_status.xml:21
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_transfer_payment.xml:22
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_points.xml:19
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_akulaku.xml:8
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/item_item_header.xml:18
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/item_item_details.xml:12
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_user_address.xml:38
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_xl_tunai.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_prima.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_permata.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_mandiri_internet.xml:48
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_mandiri.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bni_mobile.xml:48
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bni_internet.xml:74
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bni_atm.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bca_transfer_mbca.xml:48
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bca.xml:41
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_atm_bersama.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_alto_bni.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_alto.xml:40
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_bca_tranfer_click_instruction.xml:48
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/dialog_bank_list.xml:7
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/bank_item_viewholder.xml:2
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/appbar_payment.xml:27
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_user_details.xml:32
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_tnc.xml:31
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_payments_method.xml:32
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_payment_status.xml:21
+-keep class com.midtrans.sdk.uikit.widgets.DefaultTextView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_danamon_online.xml:105
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bca_klikpay.xml:80
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bca_klikbca_status.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bca_klikbca.xml:78
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_instruction_bni_internet.xml:49
+-keep class com.midtrans.sdk.uikit.widgets.DefaultTextViewWithLink { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_xl_tunai_status.xml:36
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_saved_credit_card.xml:13
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_row_payment_methods.xml:78
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_primary_button.xml:17
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_other_bank_status.xml:66
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_other_atm_network_guidance.xml:49
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_mandiri_bill_status.xml:65
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_maintenance.xml:46
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_kioson_status.xml:37
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_install_gopay.xml:42
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_indomaret_status.xml:64
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_gopay_status_tablet.xml:21
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_credit_card_register.xml:123
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_credit_card_form.xml:289
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_transfer_status.xml:65
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_points.xml:58
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_user_detail.xml:66
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/fragment_user_address.xml:225
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_tnc.xml:72
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_payment_status.xml:365
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_bank_points.xml:34
+-keep class com.midtrans.sdk.uikit.widgets.FancyButton { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_other_bank_status.xml:111
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_mandiri_bill_status.xml:117
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_transfer_status.xml:77
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_bank_transfer_payment.xml:81
+-keep class com.midtrans.sdk.uikit.widgets.MagicViewPager { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_xl_tunai_status.xml:117
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_row_payment_methods.xml:39
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_kioson_status.xml:75
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/appbar_payment.xml:49
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/activity_payment_status.xml:60
+-keep class com.midtrans.sdk.uikit.widgets.SemiBoldTextView { <init>(...); }
+
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/packaged_res/release/layout/activity_web_view.xml:13
+-keep class com.pichillilorenzo.flutter_inappwebview.InAppWebView.InAppWebView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/res/layout/ucrop_view.xml:8
+-keep class com.yalantis.ucrop.view.GestureCropImageView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/res/layout/ucrop_view.xml:14
+-keep class com.yalantis.ucrop.view.OverlayView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/res/layout/ucrop_fragment_photobox.xml:25
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/res/layout/ucrop_activity_photobox.xml:43
+-keep class com.yalantis.ucrop.view.UCropView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/res/layout/ucrop_aspect_ratio.xml:4
+-keep class com.yalantis.ucrop.view.widget.AspectRatioTextView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/res/layout/ucrop_layout_scale_wheel.xml:14
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/res/layout/ucrop_layout_rotate_wheel.xml:16
+-keep class com.yalantis.ucrop.view.widget.HorizontalProgressWheelView { <init>(...); }
+
+# Referenced at /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/layout/layout_row_saved_cards.xml:2
+-keep class ru.rambler.libs.swipe_layout.SwipeLayout { <init>(...); }
+
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/packaged_res/release/menu/menu_main.xml:36
+-keepclassmembers class * { *** closeButtonClicked(android.view.MenuItem); }
+
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/packaged_res/release/menu/menu_main.xml:8
+-keepclassmembers class * { *** goBackButtonClicked(android.view.MenuItem); }
+
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/packaged_res/release/menu/menu_main.xml:15
+-keepclassmembers class * { *** goForwardButtonClicked(android.view.MenuItem); }
+
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/packaged_res/release/menu/menu_main.xml:29
+-keepclassmembers class * { *** reloadButtonClicked(android.view.MenuItem); }
+
+# Referenced at /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/packaged_res/release/menu/menu_main.xml:22
+-keepclassmembers class * { *** shareButtonClicked(android.view.MenuItem); }
+

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/app/intermediates/incremental/mergeProductionReleaseResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/res/values-w820dp-v13/values-w820dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

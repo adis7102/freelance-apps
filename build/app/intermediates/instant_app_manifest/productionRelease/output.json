@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_APP_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":3,"versionName":"1.0.3","enabled":true,"outputFile":"app-production-release.apk","fullName":"productionRelease","baseName":"production-release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.soedja.soedja_freelance","split":"","minSdkVersion":"21"}}]

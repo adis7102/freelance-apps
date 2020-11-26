@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659953670431",
+    "firebase_url": "https://soedja-freelance.firebaseio.com",
+    "project_id": "soedja-freelance",
+    "storage_bucket": "soedja-freelance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659953670431:android:cb185937cc50a27ca0782a",
+        "android_client_info": {
+          "package_name": "com.soedja.soedja_freelance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659953670431-e16laop55j85t30houpu4d0bhlni7f47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFY1T3YBVGJzKWWSaP3NQoAQdoNEQpvYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659953670431-e16laop55j85t30houpu4d0bhlni7f47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,301 @@
+[
+  {
+    "kategori_tnc": "DIREKTORI",
+    "value": [
+      {
+        "sub_kategori_tnc": "Definisi & Istilah",
+        "value": [
+          {
+            "title_tnc": "Klien Bisnis",
+            "description_tnc": "Klien bisnis adalah individu atau perusahaan yang menggunakan aplikasi \"SOEDJA For Business\" dengan tujuan untuk mencari serta memperkerjakan pekerja lepas yang berada dalam platform SOEDJA. Klien bisnis mencari pekerja lepas dengan membuka lowongan pekerjaan sesuai dengan kategori yang disediakan oleh SOEDJA. "
+          },
+          {
+            "title_tnc": "Mitra Freelancer",
+            "description_tnc": "Mitra freelancer adalah pekerja lepas atau individu yang menggunakan aplikasi \"SOEDJA For Freelancer\" untuk mencari lowongan pekerjaan, proyek dan mempublikasi portfolio. Mitra freelancer tidak terikat hubungan oleh SOEDJA dan klien bisnis sebagai pemberi kerja tetap. Mitra freelancer menerima pendapatan dari hasil pekerjaan yang telah selesai berdasarkan ekspektasi oleh klien bisnis."
+          },
+          {
+            "title_tnc": "SOEDJA",
+            "description_tnc": "SOEDJA adalah perusahaan kurator yang mengumpulkan pekerja lepas dalam berbagai kemampuan untuk membantu bisnis mewujudkan inovasi bisnis. Melalui aplikasi \"SOEDJA For Business\" & \"SOEDJA For Freelancer\", SOEDJA berkewajiban untuk memberikan akses informasi secara adil bagi pengguna aplikasi dalam menciptakan kolaborasi. "
+          },
+          {
+            "title_tnc": "Kode OTP & Kode PIN",
+            "description_tnc": "Kode OTP adalah enam angka unik yang dikirimkan oleh sistem SOEDJA secara random kepada pengguna aplikasi untuk meningkatkan keamanan data pengguna. Kode PIN adalah enam angka rahasia yang dibuat oleh pengguna untuk digunakan didalam aplikasi SOEDJA dalam perihal fitur masuk dan keuangan."
+          },
+          {
+            "title_tnc": "SOEDJA KOIN",
+            "description_tnc": "SOEDJA KOIN adalah produk digital atau token yang digunakan oleh klien bisnis untuk dapat menggunakan layanan jasa publikasi lowongan pekerjaan didalam aplikasi SOEDJA. SOEDJA KOIN bukan alat pembayaran ataupun mata uang yang digunakan untuk membeli produk lain diluar dari layanan jasa aplikasi SOEDJA.  "
+          },
+          {
+            "title_tnc": "Kategori, Sub-Kategori & Jenis ",
+            "description_tnc": "Kategori adalah layanan jasa yang disediakan oleh SOEDJA sebagai metode kurasi peng-kategorian layanan yang tersedia. Sub-Kategori adalah layanan pekerjaan yang lebih rinci dari suatu proyek, sedangkan jenis adalah satuan pekerjaan. Contoh; Kategori Jasa Desain > Sub-Kategori : Desain Identitas Bisnis > Tipe : Membuat Logo."
+          },
+          {
+            "title_tnc": "Nomor VA",
+            "description_tnc": "Virtual Account adalah nomor pembayaran yang disediakan oleh SOEDJA bekerjasama dengan penyedia alat pembayaran resmi pihak ketiga yang telah bekerjasama dengan perusahaan perbankan. VA digunakan untuk membayar proyek atas jasa pekerjaan yang dilakukan oleh pekerja lepas. Nomor VA hanya didapatkan untuk setiap proyek yang sudah memiliki pekerja lepas atau dalam status dibayar. "
+          },
+          {
+            "title_tnc": "Proyek Paket",
+            "description_tnc": "Proyek paket adalah fitur yang dikelola untuk mempermudah bisnis dalam membuka lowongan proyek pekerjaan kepada pekerja lepas karena informasi tentang biaya pasti, hasil yang didapat serta jadwal selesai pengerjaan sudah di pastikan oleh SOEDJA. Proyek paket juga dikerjakan oleh pekerja lepas yang telah bergabung dalam program khusus untuk mengerjakan proyek klien bisnis yang  memilih proyek paket."
+          },
+          {
+            "title_tnc": "Standard Keahlian Freelancer",
+            "description_tnc": "Standard keahlian freelancer adalah susunan keahlian untuk setiap jasa pekerjaan yang terdapat di aplikasi SOEDJA. Standard keahlian ini juga digunakan oleh sistem SOEDJA untuk mencari pekerja lepas yang memiliki keahlian dalam bidang-bidang yang sesuai dengan kapasitas proyek."
+          },
+          {
+            "title_tnc": "QR Code",
+            "description_tnc": "QR Code adalah fitur perangkat kode yang digunakan untuk mempercepat pencarian pekerja lepas didalam aplikasi SOEDJA. Fitur QR Code memungkinkan pengguna untuk terhubung secara langsung dari satu perangkat ke perangkat lain untuk menjalankan interaksi pekerjaan, dalam hal ini mengundang pekerja lepas secara langsung kepada proyek."
+          },
+          {
+            "title_tnc": "Milestone",
+            "description_tnc": "Milestone adalah fitur yang menyimpan hasil pekerjaan dari suatu proyek. Fitur ini digunakan oleh klien bisnis untuk menerima hasil pekerjaan berupa link dari berbagai sumber yang dimasukan oleh pekerja lepas didalam aplikasinya. Milestone juga digunakan sebagai alat pengukur revisi bagi suatu proyek, setiap proyek dari klien bisnis memiliki kuota lima milestone atau lima kali revisi (menerima hasil)."
+          },
+          {
+            "title_tnc": "Timeline",
+            "description_tnc": "Timeline adalah durasi waktu pengerjaan yang digunakan klien bisnis dan pekerja lepas dalam mengukur durasi waktu dari awal mulai bekerja sampai dengan waktu deadline proyek selesai. "
+          },
+          {
+            "title_tnc": "Account Executive",
+            "description_tnc": "Account executive adalah seseorang atau delegasi dari pihak SOEDJA yang bertugas untuk menjamin kelancaran suatu proyek. Account executive bertugas untuk membantu klien bisnis dalam berkomunikasi, mencari freelancer, menyusun perencanaan budget proyek. AE digunakan khusus kepada proyek yang memiliki skala budget besar diatas Rp 50.000.000"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kategori_tnc": "KEBIJAKAN",
+    "value": [
+      {
+        "sub_kategori_tnc": "PASAL I - Akun Anda",
+        "value": [
+          {
+            "title_tnc": "Penggunaan Akun",
+            "description_tnc": "Penggunaan akun dalam aplikasi SOEDJA diatur untuk mencegah penyalagunaan fitur, data dan sistem yang terdapat didalam ekosistem SOEDJA. Klien bisnis disebut sebagai \"pihak I\" dan freelancer/tenaga kerja lepas disebut sebagai \"pihak II\" dan SOEDJA sebagai \"pihak ke III\". "
+          },
+          {
+            "title_tnc": "Blokir Akun",
+            "description_tnc": "SOEDJA berhak untuk melakukan pemblokiran akun klien bisnis ataupun freelancer yang diduga, terindikasi atapun terbukti melakukan pelanggaran perjanjian kerjasama, ketidakpatuhan terhadap etika profesi, perjanjian kerahasiaan antar pihak dan penyebaran isu bohong, SARA dan KKN. "
+          },
+          {
+            "title_tnc": "Pemberhentian Akun (Suspend)",
+            "description_tnc": "Pemberhentian akun dilakukan oleh pihak ke III dalam hal ini oleh SOEDJA selaku yang berwenang untuk melakukan suspensi terhadap akun yang telah dilaporkan oleh pihak pengadu lainya terhadap pelanggaran-pelanggaran dan peraturan yang telah ditetapkan pada pasal I - Akun Anda - Blokir Akun. Suspensi bersifat sementara dan tidak selamanya sampai proses penyelesaian permasalahan selesai. "
+          }
+        ]
+      },
+      {
+        "sub_kategori_tnc": "PASAL II - Kebijakan Order",
+        "value": [
+          {
+            "title_tnc": "Auto Bid",
+            "description_tnc": "Sistem Auto bid adalah sistem pencocokan cepat yang digunakan didalam aplikasi SOEDJA. Auto bid pempertemukan klien bisnis dan freelancer dalam tempo waktu yang singkat. Pihak ke III selaku penyedia layanan memiliki kendali penuh seluruhnya terhadap fitur auto bid yang dibuat dan dipasarkan kepada pengguna aplikasi SOEDJA. SOEDJA berhak melakukan rekomendasi apapun didalam hasil pencarian auto bid dalam menawarkan jasa pekerjaan pekerja lepas. SOEDJA memiliki hak untuk melakukan monetize terhadap fitur auto bid yang digunakan oleh pengguna."
+          },
+          {
+            "title_tnc": "Penjelasan Proyek",
+            "description_tnc": "Penjelasan proyek dilakukan oleh klien bisnis melalui media suara dan tulisan yang terdapat didalam aplikasi SOEDJA. Atas sepengetahuan atau tidak dari klien bisnis, SOEDJA berhak untuk menambahkan, mengurangi dan memperbaiki penjelasan proyek untuk mempermudah kelancaran dari proses mendapatkan pekerja lepas yang cocok. SOEDJA berhak dan memiliki kuasa untuk mendistribusikan penjelasan proyek secara menyeluruh dari klien bisnis di dalam atau diluar platform SOEDJA baik melalui media teknologi ataupun media cetak. "
+          },
+          {
+            "title_tnc": "Budget Proyek",
+            "description_tnc": "Budget proyek adalah sebuah nilai yang digunakan sebagai harga final dalam pembayaran upah kerja yang diterima dan dibagikan kepada masing-masing pihak. SOEDJA berhak menerima komisi dari budget proyek final yang sudah ditetapkan oleh klien bisnis dan freelancer. Dimana freelancer berhak menerima upah bersih yang telahdipotong oleh komisi dan kewajiban kepada SOEDJA. Dalam proses publikasi lowongan kerja, SOEDJA berhak memberikan rekomendasi budget kepada klien bisnis dalam berbagai sumber yang diinginkan. Freelancer berhak dengan sendirinya melakukan penawaran kepada klien bisnis jika dirasa rekomendasi budget yang didapatkan dari SOEDJA tidak sesuai kondisi yang diinginkan. Kesepakatan budget antara klien bisnis dan freelancer/pekerja lepas bersifat final dan tidak bisa diganggu oleh pihak lain."
+          },
+          {
+            "title_tnc": "Proyek Paket",
+            "description_tnc": "Klien bisnis yang membuka lowongan pekerjaan dengan fitur proyek paket berhak mendapatkan hasil dan jumlah pekerjaan sesuai yang telah ditetapkan didalam list proyek. Pekerja lepas yang mengambil proyek paket wajib untuk memberikan hasil pekerjaan sesuai list yang terdapat dalam informasi proyek. SOEDJA selaku pihak ke III berhak dan memiliki kuasa penuh untuk merubah, menambah dan mengganti budget proyek dan ist pekerjaan yang tercantum didalam proyek paket. Budget proyek paket bersifat final dari pihak ke III. "
+          },
+          {
+            "title_tnc": "Upload Referensi Proyek",
+            "description_tnc": "Upload referensi proyek dapat dilakukan oleh klien bisnis dari berbagai sumber. SOEDJA tidak bertanggung jawab atau berasosiasi oleh klien bisnis juga terjadi pelanggaran hak cipta dari referensi proyek yang di unggah didalam sistem aplikasi SOEDJA. SOEDJA berhak untuk mengubah, menghapus ataupun menambahkan referensi proyek untuk menjamin kenyamanan dan keamanan didalam ekosistem SOEDJA. Pekerja lepas / freelancer berhak menggunakan referensi proyek yang diberikan oleh klien bisnis sebagai sumber inspirasi dan tidak diperkenankan untuk melakukan tindakan yang melanggar kebijakan privasi dan plagiat."
+          },
+          {
+            "title_tnc": "Memilih Freelancer",
+            "description_tnc": "Klien bisnis atau yang disebut sebagai pihak I memiliki kuasa penuh dalam memilih pekerja lepas / freelancer untuk lowongan pekerjaan atau proyek yang akan dikerjakan. SOEDJA tidak memiliki hak selain memberikan rekomendasi kepada klien bisnis dalam berbagai media baik melalui teknologi digital ataupun cetak. Klien bisnis memiliki kesadaran penuh terhadap konsekuensi terhadap freelancer/pekerja lepas yang dipilih baik konsekuensi hasil pekerjaan ataupun sikap dan etika kerja."
+          },
+          {
+            "title_tnc": "Pembatalan Proposal",
+            "description_tnc": "Lowongan pekerjaan dari klien bisnis dapat dilakukan pembatalan dalam berbagai kondisi dan syarat sebagai berikut; Pertama, tidak mendapatkan calon pekerja lepas yang cocok atau sesuai dengan keinginan dari klien bisnis. Kedua, freelancer yang dipilih tidak melakukan konfirmasi dalam waktu yang ditentukan oleh klien bisnis sendiri. Ketiga, terjadi kesalahan dalam memasukan informasi tentang lowongan pekerjaan atau proyek. Dalam proses pembatalan ini, klien bisnis tidak mendapatkan kembali SOEDJA KOIN yang telah digunakan sebagai alat publikasi pada proyek yang sudah diterbitkan sebelumnya. SOEDJA tidak berhak untuk mengembalikan SOEDJA KOIN kembali bila terjadi pembatalan proposal oleh klien bisnis."
+          },
+          {
+            "title_tnc": "Pembayaran Proyek",
+            "description_tnc": "Pembayaran proyek wajib dilakukan sebelum pekerjaan proyek dilakukan atau setelah freelancer melakukan konfirmasi kesanggupan pekerjaan yang diberikan oleh klien bisnis. Pembayaran proyek ditujukan kepada SOEDJA sebagai pihak yang dipercayai mengatur upah pekerjaan dari klien bisnis terhadap freelancer. Pembayaran proyek diterima oleh pekerja lepas setelah klien bisnis melakukan approval dari hasil pekerjaan yang dikerjakan oleh freelancer. Pembayaran proyek akan diterima oleh freelancer melalui aplikasi SOEDJA dan dapat di withdraw / dikeluarkan sesuai ketentuan withdraw yang ditetapkan oleh SOEDJA. "
+          },
+          {
+            "title_tnc": "SOEDJA KOIN",
+            "description_tnc": "SOEDJA KOIN adalah produk digital atau token yang digunakan oleh klien bisnis untuk dapat menggunakan layanan jasa publikasi lowongan pekerjaan didalam aplikasi SOEDJA. SOEDJA KOIN bukan alat pembayaran ataupun mata uang yang digunakan untuk membeli produk lain diluar dari layanan jasa aplikasi SOEDJA.  Dalam pembelian SOEDJA KOIN, nilai harga token ditetapkan oleh SOEDJA dan bersifat final. SOEDJA KOIN tidak dapat ditukarkan kembali menjadi uang fisik atau digital kepada klien bisnis dalam bentuk apapun. SOEDJA KOIN tidak dapat dijadikan media barter atau tukar tambah terhadap jasa dan barang apapun. "
+          },
+          {
+            "title_tnc": "Keranjang Order",
+            "description_tnc": "Keranjang order berisikan proyek-proyek yang akan di publikasi oleh klien bisnis. Maksimum proyek yang dapat dipublikasi oleh klien bisnis dalam satu proses adalah Lima proyek bisnis atau lowongan. SOEDJA berhak menyimpan, mengelola dan menghapus data yang terdapat didalam keranjang order dari klien bisnis dalam atau tidak sepengetahuan dari klien bisnis. Klien bisnis dapat melakukan pengubahan, penghapusan dan perbaikan informasi  didalam keranjang order."
+          }
+        ]
+      },
+      {
+        "sub_kategori_tnc": "PASAL III - Kerjasama Klien & Freelancer",
+        "value": [
+          {
+            "title_tnc": "Klien Sebagai Pembeli Jasa",
+            "description_tnc": "Klien bisnis selaku pihak I adalah pembeli jasa dari pihak ke II yaitu pekerja lepas melalui aplikasi SOEDJA. Pembelian jasa dilakukan secara langsung sesuai dengan ketentuan yang telah terdapat di dalam aplikasi. Proses pembelian jasa melalui ketentuan, cara dan proses yang ditetapkan oleh SOEDJA. Pembelian serta pemilihan jasa dilakukan melalui kesadaran penuh dari klien bisnis."
+          },
+          {
+            "title_tnc": "Freelance Sebagai Penjual Jasa",
+            "description_tnc": "Freelance atau pekerja lepas selaku pihak II adalah penjualan jasa kepada pihak pertama yaitu klien bisnis melalui aplikasi SOEDJA. Penjualan jasa dilakukan secara langsung sesuai dengan ketentuan yang telah terdapat di dalam aplikasi. Proses penjualan jasa melalui ketentuan, cara dan proses yang ditetapkan oleh SOEDJA. Pihak ke II atau pekerja lepas memberikan kuasa penuh kepada SOEDJA untuk mempromosikan hasil karya atau portfolio kepada calon klien bisnis yang membuka lowongan pekerjaan."
+          }
+        ]
+      },
+      {
+        "sub_kategori_tnc": "PASAL IV - Kerjasama SOEDJA ke Klien",
+        "value": [
+          {
+            "title_tnc": "Perantara",
+            "description_tnc": "SOEDJA selaku aplikator dan pihak ke III dalam kerjasama melalui aplikasi merupakan perantara jual beli jasa antara klien bisnis sebagai pihak I dan freelancer/pekerja lepas selaku pihak ke II. Dalam kerjasama sebagai perantara dari pihak I dan pihak II, SOEDJA berhak menerima komisi sesuai keinginan pihak ke III dalam hal ini SOEDJA. Besaran komisi ditentukan oleh SOEDJA dan pengenaanya dapat dilakukan kepada dua bela pihak yaitu klien bisnis dan freelancer."
+          },
+          {
+            "title_tnc": "Mediator",
+            "description_tnc": "Dalam penyelesaian permasalahan, SOEDJA berperan sebagai mediator untuk membantu jalannya komunimasi antara klien bisnis dan pekerja lepas. SOEDJA memiliki wewenang atas masing-masing pihak untuk memberikan informasi yang adil dan benar untuk membantu penyelesaian permasalahan. Tujuan SOEDJA sebagai mediator adalah untuk membantu menemukan solusi tengah yang baik dan disetujui bagi masing-masing pihak."
+          },
+          {
+            "title_tnc": "Fasilitator",
+            "description_tnc": "SOEDJA selaku pihak ke III didalam aplikasi berperan untuk membantu mempermudah proses pengalaman klien bisnis dan pekerja lepas dalam berkolaborasi lebih baik. SOEDJA memiliki peran untuk merubah , menghapus dan menambahkan materi terhadap tampilan, kata, gambar ataupun video untuk tujuan memperbaiki pengalaman kolaborasi bagi masing-masing pihak."
+          }
+        ]
+      },
+      {
+        "sub_kategori_tnc": "PASAL V - Kerjasama SOEDJA ke Freelancer",
+        "value": [
+          {
+            "title_tnc": "Perantara",
+            "description_tnc": "SOEDJA selaku aplikator dan pihak ke III dalam kerjasama melalui aplikasi merupakan perantara jual beli jasa antara klien bisnis sebagai pihak I dan freelancer/pekerja lepas selaku pihak ke II. Dalam kerjasama sebagai perantara dari pihak I dan pihak II, SOEDJA berhak menerima komisi sesuai keinginan pihak ke III dalam hal ini SOEDJA. Besaran komisi ditentukan oleh SOEDJA dan pengenaanya dapat dilakukan kepada dua bela pihak yaitu klien bisnis dan freelancer."
+          },
+          {
+            "title_tnc": "Mediator",
+            "description_tnc": "Dalam penyelesaian permasalahan, SOEDJA berperan sebagai mediator untuk membantu jalannya komunimasi antara klien bisnis dan pekerja lepas. SOEDJA memiliki wewenang atas masing-masing pihak untuk memberikan informasi yang adil dan benar untuk membantu penyelesaian permasalahan. Tujuan SOEDJA sebagai mediator adalah untuk membantu menemukan solusi tengah yang baik dan disetujui bagi masing-masing pihak."
+          },
+          {
+            "title_tnc": "Akselerator",
+            "description_tnc": "Dalam proses kolaborasi, SOEDJA juga berperan untuk melakukan akselerasi kepada pekerja lepas/freelancer dalam hal pengingkatan kapasitas, jaringan dan pendapatan. Kegiatan yang diberikan oleh SOEDJA kepada freelancer dapat berupa banyak format seperti pendidikan, insentif dan kompetisi yang tujuanya untuk melakukan akselerasi perbaikan kualitas."
+          }
+        ]
+      },
+      {
+        "sub_kategori_tnc": "PASAL VI - Force Majeure",
+        "value": [
+          {
+            "title_tnc": "Gempa Bumi",
+            "description_tnc": "Gempa bumi menjadi kondisi atau keadaan memaksa yang menghalangi terlaksananya perjanjian dan kewajiban masing-masing pihak, sehingga ketetapan diatas dapat diatur ulang sesuai dengan kondisi yang memungkinan perjanjian kerjasama disusun kembali dari hasil musyawarah. Pembayaran proyek yang terkendala bencana gempa bumi akan tetap di kelola oleh pihak III sampai ada permintaan pembagian dari pihak ke I dan dan pihak ke II hasil musyawarah."
+          },
+          {
+            "title_tnc": "Badai / Tornado",
+            "description_tnc": "Badai/Tornado menjadi kondisi atau keadaan memaksa yang menghalangi terlaksananya perjanjian dan kewajiban masing-masing pihak, sehingga ketetapan diatas dapat diatur ulang sesuai dengan kondisi yang memungkinan perjanjian kerjasama disusun kembali dari hasil musyawarah. Pembayaran proyek yang terkendala bencanabadai / tornado akan tetap di kelola oleh pihak III sampai ada permintaan pembagian dari pihak ke I dan dan pihak ke II hasil musyawarah."
+          },
+          {
+            "title_tnc": "Tsunami",
+            "description_tnc": "Tsunami menjadi kondisi atau keadaan memaksa yang menghalangi terlaksananya perjanjian dan kewajiban masing-masing pihak, sehingga ketetapan diatas dapat diatur ulang sesuai dengan kondisi yang memungkinan perjanjian kerjasama disusun kembali dari hasil musyawarah. Pembayaran proyek yang terkendala bencana Tsunami akan tetap di kelola oleh pihak III sampai ada permintaan pembagian dari pihak ke I dan dan pihak ke II hasil musyawarah."
+          },
+          {
+            "title_tnc": "Perang",
+            "description_tnc": "Perang menjadi kondisi atau keadaan memaksa yang menghalangi terlaksananya perjanjian dan kewajiban masing-masing pihak, sehingga ketetapan diatas dapat diatur ulang sesuai dengan kondisi yang memungkinan perjanjian kerjasama disusun kembali dari hasil musyawarah. Pembayaran proyek yang terkendala bencana perang akan tetap di kelola oleh pihak III sampai ada permintaan pembagian dari pihak ke I dan dan pihak ke II hasil musyawarah."
+          },
+          {
+            "title_tnc": "Berakibat Meninggal Dunia",
+            "description_tnc": "Bila terdapat pihak yang mengalami musibah meninggal dunia dalam hal ini pihak ke I dan pihak ke II, maka SOEDJA selaku pihak ke III berhak untuk melakukan pembatalan kerjasama dengan pengembalian uang proyek kepada pihak ke I sebanyak 80% dan pihak ke II sebanyak 15% serta pihak ke III sebanyak 5% dari total budget proyek yang dibayarkan. Lama atau cepatnya proses pengembalian pembayaran menyesuaikan kondisi operasional keuangan dari pihak ke III."
+          }
+        ]
+      },
+      {
+        "sub_kategori_tnc": "PASAL VII - Pembatalan Kerjasama",
+        "value": [
+          {
+            "title_tnc": "Identitas Palsu & Penipuan",
+            "description_tnc": "SOEDJA berhak memutus kerjasama dengan pihak ke I dan pihak ke II apabila terdapat informasi identitas palsu dan penipuan yang mengatasnamakan orang lain atau suatu badan yang tidak memberikan wewenang kepada pihak tersebut untuk menggunakan dan membuat kerjasama didalam aplikasi SOEDJA. Pihak ke III berhak melaporkan pihak yang terbukti melakukan penipuan dan penyertaan identitas paslu kepada pihak Kepolisian Republik Indonesia dengan melampirkan bukti - bukti. "
+          },
+          {
+            "title_tnc": "Terdapat Korupsi",
+            "description_tnc": "SOEDJA berhak memutus kerjasama dengan pihak ke I dan pihak ke II apabila terdapat tindakan korupsi ataupun pencucian uang melalui proyek lowongan pekerjaan didalam aplikasi SOEDJA. Pihak ke III berhak melaporkan pihak yang terindikasi melakukan tindakan korupsi dan pencucian uang kepada pihak Kepolisian Republik Indonesia dengan melampirkan bukti - bukti. "
+          },
+          {
+            "title_tnc": "Terindikasi Kolusi",
+            "description_tnc": "SOEDJA berhak memutus kerjasama dengan pihak ke I dan pihak ke II apabila terdapat tindakan kolusi ataupun pencucian uang melalui proyek lowongan pekerjaan didalam aplikasi SOEDJA. Pihak ke III berhak melaporkan pihak yang terindikasi melakukan tindakan kolusi kepada pihak Kepolisian Republik Indonesia dengan melampirkan bukti - bukti. "
+          },
+          {
+            "title_tnc": "Terindikasi Nepotisme",
+            "description_tnc": "SOEDJA berhak memutus kerjasama dengan pihak ke I dan pihak ke II apabila terdapat tindakan nepotisme ataupun pencucian uang melalui proyek lowongan pekerjaan didalam aplikasi SOEDJA. Pihak ke III berhak melaporkan pihak yang terindikasi melakukan tindakan nepotisme kepada pihak Kepolisian Republik Indonesia dengan melampirkan bukti - bukti. "
+          },
+          {
+            "title_tnc": "Ketidakhadiran",
+            "description_tnc": "Ketidakhadiran dari pihak ke I dan ke II dalam proses pengerjaan proyek dapat berakibat pembatalan kerjasama yang diatur sebagai berikut. pengembalian uang ataupun permintaaan hak upah terbagi untuk masing-masing pihak sebesar 80% pengembalian uang kepada klien bisnis bila telah menerima hasil pekerjaan lebih dari 50%. 100% pengembalian bila belum menerima hasil kerja apapun dari pekerja lepas. Begitu juga sebaliknya dengan pekerja lepas dimana akan menerima 20% dari hasil pekerjaan bila telah menyelesaikan 50% pekerjaan dan mendapatkan 100% bila telah 100% menyelesaikan pekerjaan namun tidak ada kabar apapun dari klien bisnis lebih dari satu bulan. Atau pihak ke II sebagai pekerja lepas tidak ada kabar lebih dari tujuh hari kerja, maka klien bisnis dapat mengajukan pembatalan."
+          },
+          {
+            "title_tnc": "Ketidakpuasan Kerja",
+            "description_tnc": "Ketidakpuasan kerja dapat menjadi faktor pembatalan kerjasama antara pihak ke I dan pihak ke II yaitu klien bisnis dan pekerja lepas, namun tidak dapat melakukan refund atau pembatalan kerjasama yang mengembalikan uang kepada klien bisnis kembali. Jika klien bisnis tidak puas dengan hasil kerja freelancer, maka SOEDJA selaku pihak ke III dapat memberikan rekomendasi pergantian pekerja lepas baru atau pergantian. Sedangkan pihak ke II sebagai pekerja lepas yang lama akan menerima upah kerja sebesar 5% dari total budget proyek sebagai kompensasi pekerjaan bila telah menyelesaikan pekerjaan lebih dari 20% proyek. Jika pihak ke II merasa tidak adil maka dapat mengajukan penolakan dengan menyertakan bukti informasi yang memperkuat bahwa pihak ke II telah melaksanakan kewajibanya sesuai keinginan dari pihak ke I. Penyelesaian masalah ketidakpuasan ini diselesaikan secara musyawarah dan sesama. "
+          },
+          {
+            "title_tnc": "Ganti Rugi",
+            "description_tnc": "Dalam proses pembatalan kerjasama yang bersifat ganti rugi, SOEDJA berperan sebagai mediator untuk menengahi permasalahan dari kerugian yang ditanggung pihak pengadu. Ganti rugi bersifat musyawarah dan bila pihak pelapor menginginkan penyelesaian melalui jalur hukum maka SOEDJA selaku pihak ke III akan bekerja sama untuk memberikan informasi yang adil dan benar untuk mendukung kelancaran proses pengaduan pada pihak berwajib. Ganti rugi berupa pengembalian uang ataupun permintaaan hak upah terbagi untuk masing-masing pihak sebesar 80% pengembalian uang kepada klien bisnis bila telah menerima hasil pekerjaan lebih dari 50%. 100% pengembalian bila belum menerima hasil kerja apapun dari pekerja lepas. Begitu juga sebaliknya dengan pekerja lepas dimana akan menerima 20% dari hasil pekerjaan bila telah menyelesaikan 50% pekerjaan dan mendapatkan 100% bila telah 100% menyelesaikan pekerjaan namun tidak ada kabar apapun dari klien bisnis lebih dari satu bulan. "
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kategori_tnc": "PRIVASI",
+    "value": [
+      {
+        "sub_kategori_tnc": "Hak Kekayaan Intelektual",
+        "value": [
+          {
+            "title_tnc": "Ide proyek",
+            "description_tnc": "Didalam aplikasi SOEDJA ide proyek yang dipublikasi oleh klien bisnis adalah bersifat sangat rahasia dan tidak dapat digunakan oleh pihak lain untuk disebarkan atau digunakan tidak atas se-izin dari klien bisnis. SOEDJA selaku perantara berhak untuk mendistribusikan ide proyek yang terdapat didalam informasi proyek kepada banyak pihak dengan tujuan untuk mencari pekerja lepas yang sesuai dengan keinginan dari klien bisnis. Pihak I berhak meminta pihak lain untuk menghapus, tidak menyebarkan dan menjaga kerahasiaan dari suatu ide proyek. Jika pihak lain terbukti melanggar kebijakan privasi ide proyek maka pihak I dan pihak ke III dalam hal ini SOEDJA berhak untuk membawa dan menuntut dalam kasus hukum yang berlaku."
+          },
+          {
+            "title_tnc": "Referensi proyek",
+            "description_tnc": "Referensi proyek yang di unggah oleh klien bisnis didalam aplikasi SOEDJA bersifat umum dan dapat digunakan oleh pihak lain dalam proses pengerjaan dan pencarian pekerja lepas. Referensi proyek bersifat terbuka dan dapat dilihat oleh banyak orang yang berada pada jaringan ekosistem SOEDJA dengan tujuan untuk mengerti ekspentasi dari klien bisnis. Klien bisnis tidak dapat melakukan tuntutan apapun terhadap referensi proyek yang sudah di unggah melalui aplikasi SOEDJA."
+          },
+          {
+            "title_tnc": "Hasil proyek",
+            "description_tnc": "Hasil pekerjaan proyek yang sudah selesai dikerjakan menjadi milik klien bisnis seutuhnya dan tidak dapat digunakan oleh pihak lain dalam berbagai hal tanpa se-izin dari klien bisnis. Proses pengerjaan dari proyek bersifat sangat rahasia karenanya tidak dapat dibagikan, ditunjukan, dirubah dan diperjual-belikan oleh pihak ke II dan ke III. SOEDJA berhak menyimpan hasil pekerjaan didalam fitur projectku / Milestone yang digunakan untuk sebagai dokumentasi hasil proyek. Jika pihak lain terbukti melanggar kebijakan privasi ide proyek maka pihak I dan pihak ke III dalam hal ini SOEDJA berhak untuk membawa dan menuntut dalam kasus hukum yang berlaku."
+          }
+        ]
+      },
+      {
+        "sub_kategori_tnc": "Kebijakan Privasi",
+        "value": [
+          {
+            "title_tnc": "Informasi Tentang Anda",
+            "description_tnc": "Informasi tentang pengguna akun di aplikasi SOEDJA bersifat sangat rahasia dan tidak dapat digunakan oleh pihak manapun untuk diperjual-belikan, dipalsukan, dan disalahgunakan untuk kepentingan yang tidak baik atau tidak memiliki izin dari pemilik informasi tersebut. SOEDJA dalam hal ini sebagai pihak ke III dan penyelenggara berwenang dan berkewajiban untuk menjaga informasi data pengguna dengan sebaik-baiknya melalui berbagai metode keamanan yang selalu berkembang. SOEDJA dapat menggunakan informasi pengguna untuk banyak kepentingan antara lain; mencari wawasan tentang kebiasaan prilaku konsumen, melakukan analisa bisnis dan keamanan keuangan, pencegahan penipuan, penawaran kerjasama, penawaran produk dan jasa, percobaan fitur dan produk didalam aplikasi."
+          },
+          {
+            "title_tnc": "Komunikasi Chat",
+            "description_tnc": "Komunikasi antara pihak ke I dan pihak ke II didalam aplikasi SOEDJA diatur sepenuhnya oleh pihak ke III dalam hal-hal untuk meningkatkan produktivitas dan kelancaran komunikasi. SOEDJA berhak untuk melihat, merubah dan menambahkan perbincangan didalam ruang bicara antara pihak ke I dan ke II ataupun berkomunimasi sebagai salah satu pihak. SOEDJA berhak menghapus perbincangan yang terdapat isu SARA, pornografi dan konten yang tidak mendukung terciptanya kelancaran dari proses pengerjaan proyek.  "
+          },
+          {
+            "title_tnc": "Pembayaran & SOEDJA KOIN",
+            "description_tnc": "SOEDJA berhak memberikan informasi status pembayaran proyek kemasing-masing pihak dalam hal ini klien bisnis dan pekerja lepas. Informasi tentang pembayaran proyek adalah bersifat umum dan data nya dapat digunakan semua pihak untuk melakukan kajian, pelaporan dan pemberitahuan."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "kategori_tnc": "TENTANG",
+    "value": [
+      {
+        "sub_kategori_tnc": "Informasi Umum",
+        "value": [
+          {
+            "title_tnc": "Apa itu SOEDJA",
+            "description_tnc": "SOEDJA adalah aplikasi portal kolaborasi pekerjaan yang membantu pemberi kerja mencari jasa pekerja lepas. SOEDJA berdiri sejak tahun 2017 dan saat ini sudah membantu lebih dari 2,650 orang mendapatkan akses pekerjaan. Hubungi kami di people@soedja.com"
+          },
+          {
+            "title_tnc": "Visi & Misi SOEDJA",
+            "description_tnc": "(Vision) Is To Empower Business Collaboration and Make it Accessable For Everyone To Work Together. (Mission) \n 1. We provide reliable and fast match-making great talent with Business through Technology. \n 2. We enable creative community to become the source of knowledge, inspiration and support system to create economic opportunities. \n 3. We focus on building great team that aspire the future of workplace. "
+          },
+          {
+            "title_tnc": "Nilai Perusahaan",
+            "description_tnc": "(RATA) R = Reliable & Fast | A=Active Learning | T=  Teamwork | A= Amazing Product"
+          },
+          {
+            "title_tnc": "Apa itu SOEDJA App Bisnis",
+            "description_tnc": "SOEDJA App Bisnis adalah media aplikasi yang digunakan oleh pemberi kerja untuk mencari talent atau pekerja didalam jaringan ekosistem SOEDJA."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:1:1-69:12
+INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:1:1-69:12
+INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:1:1-69:12
+INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:1:1-69:12
+MERGED from [:barcode_scan] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/barcode_scan/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:17:1-45:12
+MERGED from [:sqflite] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:device_info] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/device_info/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/package_info/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:2:1-20:12
+MERGED from [:webview_flutter] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_cropper] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_cropper/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:location] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/location/intermediates/library_manifest/release/AndroidManifest.xml:2:1-10:12
+MERGED from [:share] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/share/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:2:1-172:12
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34a0e5d53ae61e749f2724a77a7fa61b/firebase-datatransport-17.0.3/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/be92c5c51e7e0033fb4b175f26388755/firebase-installations-interop-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/970285c577138de71947801950e58d5c/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.midtrans:corekit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3d71ad886ac22e85dd3ab0cb52762585/jetified-corekit-1.21.2/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3e3df69a0853fa33e51b3dce0be66a57/jetified-play-services-auth-api-phone-15.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/c8a5d54c75bcba887df37bc45908a970/jetified-play-services-auth-base-15.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/7e781b5da7d5fd7c7966949019e1ff31/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.browser:browser:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8b82793e435830a090b512b640083076/browser-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/b013c75ac835c9dba5285de35b2b56ac/webkit-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:17:1-55:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/33e3413576968285f1e6511679deb3f3/zxing-1.9.13/AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/c2734e3f5584909410b5981530eb446e/jetified-core-1.9.13/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/fb1e5d35f9738a7c29a273d7be7f3e2c/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/0330fa1606dbd2927998321d8a033742/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.yalantis:ucrop:2.2.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b70fea78b0d3094970bae267378b2af/jetified-smsverifycatcher-0.3.1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.midtrans:analytics:1.4.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/9202fd04a4769388cd4261bee663932a/jetified-analytics-1.4.5/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/2c4391f92fede1c2cb99edbe7ce84ec2/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/0d479d426be2ba1f4bdfee2f9a7aa519/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ea5c4cb5d48073d1e7d313ab18d9be9b/jetified-swipe-layout-1.0.14/AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/536c4d230adcf87aec8f00c8955f8127/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/f266002780b6f62ae73a8842bc10a810/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ccbc43d824524dd386a70951e03aa19c/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b04b83de1601881480b117c642452b3/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a5b8095803802f17607f1ac359c588fa/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/06d80eb16b557b026bc1ef456724990c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5a1de8d3594afca67ad230d5d25a73b9/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/2bde3390bdc83bbff114db04030f9d39/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3008a15222323dd0393f3314747b2d3a/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5a5d53679d914b768463e606a8e8f920/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/2ecca17b0eb70fcbc1e9d8148641257d/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/d62c70c682445a3aae6412574932cb36/transport-api-2.2.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/aa57022c2ef956c88be3e083eacb1366/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/49c931c92b12f4476416c70f28960002/firebase-encoders-json-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/53efbc2f03bcefa36056ee4c9c629f19/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/00db72760b3662c4528b816b17c43995/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/13eb812daeca5edd5883d98298d1a9d8/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/661596a01c08ad703a8600cf22b7431d/exifinterface-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/d51e0220d8e43d4bfbf3a1c4895b8a97/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/6841373f317e49c71d317948ee9dd353/jetified-ion-2.2.1/AndroidManifest.xml:2:1-16:12
+MERGED from [com.midtrans:issuetracker:1.12.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/d4c648bcd85fd535434118d08493f01f/issuetracker-1.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [me.saket:better-link-movement-method:1.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/0bda57f21ec099fdfbb8cb6795151ab2/better-link-movement-method-1.2/AndroidManifest.xml:2:1-12:12
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/fd64aa9d2be7e1d5043bb1ecd96e047e/androidasync-2.2.1/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5c3da609cf4dbe64c07f8ab868e9fac2/secure-preferences-v0.1.6/AndroidManifest.xml:2:1-14:12
+MERGED from [com.scottyab:aes-crypto:0.0.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/25c9f62dc27d4701b2adbae184bc9b8e/aes-crypto-0.0.5/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:1:1-69:12
+INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:1:1-69:12
+INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:1:1-69:12
+	package
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:1:1-69:12
+		INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:1:1-69:12
+		INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:11:5-67
+MERGED from [com.midtrans:corekit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3d71ad886ac22e85dd3ab0cb52762585/jetified-corekit-1.21.2/AndroidManifest.xml:12:5-67
+MERGED from [com.midtrans:corekit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3d71ad886ac22e85dd3ab0cb52762585/jetified-corekit-1.21.2/AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/6841373f317e49c71d317948ee9dd353/jetified-ion-2.2.1/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/6841373f317e49c71d317948ee9dd353/jetified-ion-2.2.1/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/fd64aa9d2be7e1d5043bb1ecd96e047e/androidasync-2.2.1/AndroidManifest.xml:11:5-67
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/fd64aa9d2be7e1d5043bb1ecd96e047e/androidasync-2.2.1/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:6:5-81
+MERGED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
+MERGED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:8:5-65
+MERGED from [:barcode_scan] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/barcode_scan/intermediates/library_manifest/release/AndroidManifest.xml:7:5-65
+MERGED from [:barcode_scan] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/barcode_scan/intermediates/library_manifest/release/AndroidManifest.xml:7:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:21:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:9:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:17:5-68:19
+MERGED from [:barcode_scan] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/barcode_scan/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:19
+MERGED from [:barcode_scan] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/barcode_scan/intermediates/library_manifest/release/AndroidManifest.xml:9:5-11:19
+MERGED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:22:5-43:19
+MERGED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:url_launcher] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:13:5-170:19
+MERGED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:13:5-170:19
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34a0e5d53ae61e749f2724a77a7fa61b/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34a0e5d53ae61e749f2724a77a7fa61b/firebase-datatransport-17.0.3/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/970285c577138de71947801950e58d5c/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/970285c577138de71947801950e58d5c/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.midtrans:corekit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3d71ad886ac22e85dd3ab0cb52762585/jetified-corekit-1.21.2/AndroidManifest.xml:14:5-17:19
+MERGED from [com.midtrans:corekit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3d71ad886ac22e85dd3ab0cb52762585/jetified-corekit-1.21.2/AndroidManifest.xml:14:5-17:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/7e781b5da7d5fd7c7966949019e1ff31/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/7e781b5da7d5fd7c7966949019e1ff31/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:45:5-53:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/33e3413576968285f1e6511679deb3f3/zxing-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/33e3413576968285f1e6511679deb3f3/zxing-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/c2734e3f5584909410b5981530eb446e/jetified-core-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/c2734e3f5584909410b5981530eb446e/jetified-core-1.9.13/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b70fea78b0d3094970bae267378b2af/jetified-smsverifycatcher-0.3.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b70fea78b0d3094970bae267378b2af/jetified-smsverifycatcher-0.3.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.midtrans:analytics:1.4.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/9202fd04a4769388cd4261bee663932a/jetified-analytics-1.4.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.midtrans:analytics:1.4.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/9202fd04a4769388cd4261bee663932a/jetified-analytics-1.4.5/AndroidManifest.xml:11:5-15:19
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ea5c4cb5d48073d1e7d313ab18d9be9b/jetified-swipe-layout-1.0.14/AndroidManifest.xml:12:5-14:47
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ea5c4cb5d48073d1e7d313ab18d9be9b/jetified-swipe-layout-1.0.14/AndroidManifest.xml:12:5-14:47
+MERGED from [androidx.core:core:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:25:5-39:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/6841373f317e49c71d317948ee9dd353/jetified-ion-2.2.1/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/6841373f317e49c71d317948ee9dd353/jetified-ion-2.2.1/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/fd64aa9d2be7e1d5043bb1ecd96e047e/androidasync-2.2.1/AndroidManifest.xml:13:5-14:19
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/fd64aa9d2be7e1d5043bb1ecd96e047e/androidasync-2.2.1/AndroidManifest.xml:13:5-14:19
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5c3da609cf4dbe64c07f8ab868e9fac2/secure-preferences-v0.1.6/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5c3da609cf4dbe64c07f8ab868e9fac2/secure-preferences-v0.1.6/AndroidManifest.xml:11:5-12:19
+MERGED from [com.scottyab:aes-crypto:0.0.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/25c9f62dc27d4701b2adbae184bc9b8e/aes-crypto-0.0.5/AndroidManifest.xml:10:5-20
+MERGED from [com.scottyab:aes-crypto:0.0.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/25c9f62dc27d4701b2adbae184bc9b8e/aes-crypto-0.0.5/AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.midtrans:corekit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3d71ad886ac22e85dd3ab0cb52762585/jetified-corekit-1.21.2/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:14:9-36
+		REJECTED from [com.midtrans:corekit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3d71ad886ac22e85dd3ab0cb52762585/jetified-corekit-1.21.2/AndroidManifest.xml:15:9-36
+		REJECTED from [com.github.stfalcon:smsverifycatcher:0.3.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b70fea78b0d3094970bae267378b2af/jetified-smsverifycatcher-0.3.1/AndroidManifest.xml:12:9-35
+		REJECTED from [com.midtrans:analytics:1.4.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/9202fd04a4769388cd4261bee663932a/jetified-analytics-1.4.5/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:20:9-40
+	tools:replace
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:18:9-36
+activity#com.soedja.soedja_freelance.MainActivity
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:22:9-54:20
+	android:launchMode
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:24:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:27:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:28:13-55
+	android:configChanges
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:26:13-163
+	android:theme
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:25:13-47
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:23:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:33:13-36:17
+	android:resource
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:35:15-52
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:34:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:42:13-45:17
+	android:resource
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:44:15-61
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:43:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:46:13-49:29
+action#android.intent.action.MAIN
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:47:17-68
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:48:27-74
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:50:13-53:29
+action#FLUTTER_NOTIFICATION_CLICK
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:51:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:52:27-73
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:55:9-58:71
+	android:screenOrientation
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:57:13-49
+	android:theme
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:58:13-69
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:56:13-60
+meta-data#flutterEmbedding
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:61:9-63:33
+	android:value
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:63:13-30
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:62:13-44
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:65:9-67:39
+	android:value
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:67:13-36
+	android:name
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml:66:13-89
+uses-sdk
+INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+MERGED from [:barcode_scan] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/barcode_scan/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:barcode_scan] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/barcode_scan/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:20:5-44
+MERGED from [:sqflite] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/device_info/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:device_info] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/device_info/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:package_info] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/package_info/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:package_info] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/package_info/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_cropper/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_cropper/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/location/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:location] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/location/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:share] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/share/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:share] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/share/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:8:5-11:115
+MERGED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:8:5-11:115
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/646fcaf19234d7b37b884114aa567eb2/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34a0e5d53ae61e749f2724a77a7fa61b/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34a0e5d53ae61e749f2724a77a7fa61b/firebase-datatransport-17.0.3/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/be92c5c51e7e0033fb4b175f26388755/firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/be92c5c51e7e0033fb4b175f26388755/firebase-installations-interop-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/970285c577138de71947801950e58d5c/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/970285c577138de71947801950e58d5c/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.midtrans:corekit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3d71ad886ac22e85dd3ab0cb52762585/jetified-corekit-1.21.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:corekit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3d71ad886ac22e85dd3ab0cb52762585/jetified-corekit-1.21.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/566477192cad9be9e53ff137fdc3eff4/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3e3df69a0853fa33e51b3dce0be66a57/jetified-play-services-auth-api-phone-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3e3df69a0853fa33e51b3dce0be66a57/jetified-play-services-auth-api-phone-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/c8a5d54c75bcba887df37bc45908a970/jetified-play-services-auth-base-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/c8a5d54c75bcba887df37bc45908a970/jetified-play-services-auth-base-15.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/187fb4c1c365ae32171bd8312a35992f/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/31a3395230a9bd928e78ed2dc5338b8e/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/08dda63aa6024eef34fb6b14605fdb41/play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/7e781b5da7d5fd7c7966949019e1ff31/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/7e781b5da7d5fd7c7966949019e1ff31/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8b82793e435830a090b512b640083076/browser-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8b82793e435830a090b512b640083076/browser-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/b013c75ac835c9dba5285de35b2b56ac/webkit-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/b013c75ac835c9dba5285de35b2b56ac/webkit-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:19:5-43
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/33e3413576968285f1e6511679deb3f3/zxing-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.13] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/33e3413576968285f1e6511679deb3f3/zxing-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/c2734e3f5584909410b5981530eb446e/jetified-core-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.13] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/c2734e3f5584909410b5981530eb446e/jetified-core-1.9.13/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/fb1e5d35f9738a7c29a273d7be7f3e2c/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/fb1e5d35f9738a7c29a273d7be7f3e2c/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/0330fa1606dbd2927998321d8a033742/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/0330fa1606dbd2927998321d8a033742/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.yalantis:ucrop:2.2.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ed24323f9c34ace8300297ad879b20db/ucrop-2.2.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/74836238f8985b95b9be999c7611f26b/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b70fea78b0d3094970bae267378b2af/jetified-smsverifycatcher-0.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.stfalcon:smsverifycatcher:0.3.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b70fea78b0d3094970bae267378b2af/jetified-smsverifycatcher-0.3.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:analytics:1.4.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/9202fd04a4769388cd4261bee663932a/jetified-analytics-1.4.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:analytics:1.4.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/9202fd04a4769388cd4261bee663932a/jetified-analytics-1.4.5/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/701c33591765b03ec8ed51d702bd262d/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/2c4391f92fede1c2cb99edbe7ce84ec2/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/2c4391f92fede1c2cb99edbe7ce84ec2/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/0d479d426be2ba1f4bdfee2f9a7aa519/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/0d479d426be2ba1f4bdfee2f9a7aa519/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ea5c4cb5d48073d1e7d313ab18d9be9b/jetified-swipe-layout-1.0.14/AndroidManifest.xml:8:5-10:41
+MERGED from [ru.rambler.android:swipe-layout:1.0.14] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ea5c4cb5d48073d1e7d313ab18d9be9b/jetified-swipe-layout-1.0.14/AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/536c4d230adcf87aec8f00c8955f8127/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/536c4d230adcf87aec8f00c8955f8127/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/d10fe1176fa5480b064486ece15f99c1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/f266002780b6f62ae73a8842bc10a810/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/f266002780b6f62ae73a8842bc10a810/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/6af37b0dc18acadfaf8b0344ec157d66/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ccbc43d824524dd386a70951e03aa19c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ccbc43d824524dd386a70951e03aa19c/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b04b83de1601881480b117c642452b3/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b04b83de1601881480b117c642452b3/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a5b8095803802f17607f1ac359c588fa/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a5b8095803802f17607f1ac359c588fa/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/06d80eb16b557b026bc1ef456724990c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/06d80eb16b557b026bc1ef456724990c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4881302d1430cfdcaa10344523e2ce7f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/28c8df72e3e98cf2af337943db219b6d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5a1de8d3594afca67ad230d5d25a73b9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5a1de8d3594afca67ad230d5d25a73b9/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/2bde3390bdc83bbff114db04030f9d39/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/2bde3390bdc83bbff114db04030f9d39/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3008a15222323dd0393f3314747b2d3a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3008a15222323dd0393f3314747b2d3a/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/31cd047ed3ec37dce69ba9f16e10a05d/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5a5d53679d914b768463e606a8e8f920/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5a5d53679d914b768463e606a8e8f920/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/2ecca17b0eb70fcbc1e9d8148641257d/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/2ecca17b0eb70fcbc1e9d8148641257d/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/35f29bb1a578f0319e9c3e21730b6b49/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4227c25f5adddf6ac1aa1a65c6b6f6a4/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/d62c70c682445a3aae6412574932cb36/transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/d62c70c682445a3aae6412574932cb36/transport-api-2.2.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/aa57022c2ef956c88be3e083eacb1366/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/aa57022c2ef956c88be3e083eacb1366/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/49c931c92b12f4476416c70f28960002/firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/49c931c92b12f4476416c70f28960002/firebase-encoders-json-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/c8f4c2580dddd9ecf64fc10bf9fbc418/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/53efbc2f03bcefa36056ee4c9c629f19/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/53efbc2f03bcefa36056ee4c9c629f19/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/00db72760b3662c4528b816b17c43995/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/00db72760b3662c4528b816b17c43995/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/13eb812daeca5edd5883d98298d1a9d8/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/13eb812daeca5edd5883d98298d1a9d8/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/82b463c8584fb88ea5a1f562d740c4b7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a78ce9b49fd39a3eac90624d04d1ee8a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/b59192acc39c8e1083525bb1a0764fd3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/661596a01c08ad703a8600cf22b7431d/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/661596a01c08ad703a8600cf22b7431d/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/07713a4b02ecb1ede5529340586b2906/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3bf5fc05ca184d01c3bed36c84f7c6c7/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/ec735b528ee8f52f56a38a2f27a69a4b/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/dff04f4f27a157ea6f57a15b661fd9d7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/d51e0220d8e43d4bfbf3a1c4895b8a97/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/d51e0220d8e43d4bfbf3a1c4895b8a97/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/6841373f317e49c71d317948ee9dd353/jetified-ion-2.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.ion:ion:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/6841373f317e49c71d317948ee9dd353/jetified-ion-2.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:issuetracker:1.12.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/d4c648bcd85fd535434118d08493f01f/issuetracker-1.12.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.midtrans:issuetracker:1.12.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/d4c648bcd85fd535434118d08493f01f/issuetracker-1.12.0/AndroidManifest.xml:7:5-9:41
+MERGED from [me.saket:better-link-movement-method:1.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/0bda57f21ec099fdfbb8cb6795151ab2/better-link-movement-method-1.2/AndroidManifest.xml:8:5-10:41
+MERGED from [me.saket:better-link-movement-method:1.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/0bda57f21ec099fdfbb8cb6795151ab2/better-link-movement-method-1.2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/fd64aa9d2be7e1d5043bb1ecd96e047e/androidasync-2.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.koushikdutta.async:androidasync:2.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/fd64aa9d2be7e1d5043bb1ecd96e047e/androidasync-2.2.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5c3da609cf4dbe64c07f8ab868e9fac2/secure-preferences-v0.1.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.scottyab:secure-preferences:v0.1.6] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5c3da609cf4dbe64c07f8ab868e9fac2/secure-preferences-v0.1.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.scottyab:aes-crypto:0.0.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/25c9f62dc27d4701b2adbae184bc9b8e/aes-crypto-0.0.5/AndroidManifest.xml:6:5-8:41
+MERGED from [com.scottyab:aes-crypto:0.0.5] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/25c9f62dc27d4701b2adbae184bc9b8e/aes-crypto-0.0.5/AndroidManifest.xml:6:5-8:41
+INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:11:9-112
+	android:targetSdkVersion
+		INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/android/app/src/main/AndroidManifest.xml
+activity#de.mintware.barcode_scan.BarcodeScannerActivity
+ADDED from [:barcode_scan] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/barcode_scan/intermediates/library_manifest/release/AndroidManifest.xml:10:9-84
+	android:name
+		ADDED from [:barcode_scan] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/barcode_scan/intermediates/library_manifest/release/AndroidManifest.xml:10:19-81
+service#io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+	android:name
+		ADDED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:18-101
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:17-78
+	android:name
+		ADDED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34a0e5d53ae61e749f2724a77a7fa61b/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34a0e5d53ae61e749f2724a77a7fa61b/firebase-datatransport-17.0.3/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:38:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [:firebase_messaging] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:15:17-127
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a908e679013d3dc9a42332803730d5fb/jetified-firebase-messaging-20.2.1/AndroidManifest.xml:40:17-119
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:17:17-67
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+activity#com.pichillilorenzo.flutter_inappwebview.InAppBrowser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:47
+	android:configChanges
+		ADDED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:10:13-59
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:11:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:9:13-102
+activity#com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:12:9-15:55
+	android:configChanges
+		ADDED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:14:13-59
+	android:theme
+		ADDED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:15:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:13:13-110
+receiver#com.pichillilorenzo.flutter_inappwebview.ChromeCustomTabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:9-118
+	android:name
+		ADDED from [:flutter_inappwebview] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/flutter_inappwebview/intermediates/library_manifest/release/AndroidManifest.xml:17:19-115
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/location/intermediates/library_manifest/release/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/location/intermediates/library_manifest/release/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [:location] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/location/intermediates/library_manifest/release/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from [:location] /Users/adisaputra/Documents/Aviana/soedja/soedja-freelance/build/location/intermediates/library_manifest/release/AndroidManifest.xml:8:22-76
+activity#com.midtrans.sdk.uikit.activities.UserDetailsActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:16:9-19:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:18:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:19:13-64
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:17:13-81
+activity#com.midtrans.sdk.uikit.activities.PaymentMethodsActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:20:9-23:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:23:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:22:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:21:13-84
+activity#com.midtrans.sdk.uikit.views.mandiri_clickpay.MandiriClickPayActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:24:9-28:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:27:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:28:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:26:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:25:13-97
+activity#com.midtrans.sdk.uikit.views.bri_epay.BriEpayPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:29:9-32:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:32:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:31:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:30:13-88
+activity#com.midtrans.sdk.uikit.views.cimb_click.CimbClickPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:33:9-36:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:36:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:35:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:34:13-92
+activity#com.midtrans.sdk.uikit.views.mandiri_ecash.MandiriEcashPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:37:9-40:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:40:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:38:13-98
+activity#com.midtrans.sdk.uikit.views.indosat_dompetku.IndosatDompetkuPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:41:9-45:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:44:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:45:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:43:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:42:13-104
+activity#com.midtrans.sdk.uikit.views.indomaret.payment.IndomaretPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:46:9-49:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:49:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:48:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:47:13-99
+activity#com.midtrans.sdk.uikit.views.indomaret.status.IndomaretStatusActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:50:9-53:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:53:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:52:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:51:13-97
+activity#com.midtrans.sdk.uikit.views.telkomsel_cash.TelkomselCashPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:54:9-58:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:57:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:58:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:56:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:55:13-100
+activity#com.midtrans.sdk.uikit.views.xl_tunai.payment.XlTunaiPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:59:9-62:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:62:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:61:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:60:13-96
+activity#com.midtrans.sdk.uikit.views.xl_tunai.status.XlTunaiStatusActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:63:9-66:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:66:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:65:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:64:13-94
+activity#com.midtrans.sdk.uikit.views.xl_tunai.XlTunaiInstructionActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:67:9-70:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:70:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:69:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:68:13-92
+activity#com.midtrans.sdk.uikit.views.kioson.payment.KiosonPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:71:9-74:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:74:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:73:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:72:13-93
+activity#com.midtrans.sdk.uikit.views.kioson.status.KiosonStatusActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:75:9-78:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:78:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:77:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:76:13-91
+activity#com.midtrans.sdk.uikit.views.gci.GciPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:79:9-83:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:82:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:83:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:81:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:80:13-79
+activity#com.midtrans.sdk.uikit.views.creditcard.details.CreditCardDetailsActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:84:9-88:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:87:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:88:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:86:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:85:13-101
+activity#com.midtrans.sdk.uikit.views.status.PaymentStatusActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:89:9-92:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:92:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:91:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:90:13-85
+activity#com.midtrans.sdk.uikit.views.creditcard.saved.SavedCreditCardActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:93:9-96:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:96:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:95:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:94:13-97
+activity#com.midtrans.sdk.uikit.views.creditcard.bankpoints.BankPointsActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:97:9-101:76
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:100:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:101:13-73
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:99:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:98:13-97
+activity#com.midtrans.sdk.uikit.views.banktransfer.list.BankTransferListActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:102:9-105:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:105:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:104:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:103:13-99
+activity#com.midtrans.sdk.uikit.views.banktransfer.payment.BankTransferPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:106:9-110:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:109:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:110:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:108:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:107:13-105
+activity#com.midtrans.sdk.uikit.views.banktransfer.status.VaPaymentStatusActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:111:9-114:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:114:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:113:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:112:13-100
+activity#com.midtrans.sdk.uikit.views.banktransfer.status.VaOtherBankPaymentStatusActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:115:9-118:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:118:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:117:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:116:13-109
+activity#com.midtrans.sdk.uikit.views.banktransfer.status.MandiriBillStatusActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:119:9-122:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:122:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:121:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:120:13-102
+activity#com.midtrans.sdk.uikit.views.creditcard.register.CardRegistrationActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:123:9-127:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:126:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:127:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:125:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:124:13-101
+activity#com.midtrans.sdk.uikit.views.gopay.payment.GoPayPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:128:9-131:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:131:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:130:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:129:13-91
+activity#com.midtrans.sdk.uikit.views.gopay.status.GoPayStatusActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:132:9-135:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:135:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:134:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:133:13-89
+activity#com.midtrans.sdk.uikit.views.danamon_online.DanamonOnlineActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:136:9-139:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:139:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:138:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:137:13-93
+activity#com.midtrans.sdk.uikit.views.bca_klikbca.payment.KlikBcaPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:140:9-144:67
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:143:13-49
+	android:windowSoftInputMode
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:144:13-64
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:142:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:141:13-99
+activity#com.midtrans.sdk.uikit.views.bca_klikbca.status.KlikBcaStatusActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:145:9-148:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:148:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:147:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:146:13-97
+activity#com.midtrans.sdk.uikit.views.bca_klikpay.BcaKlikPayPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:149:9-152:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:152:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:151:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:150:13-94
+activity#com.midtrans.sdk.uikit.views.webview.WebViewPaymentActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:153:9-156:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:156:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:155:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:154:13-87
+activity#com.midtrans.sdk.uikit.views.creditcard.tnc.TermsAndConditionsActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:157:9-160:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:160:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:159:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:158:13-98
+activity#com.midtrans.sdk.uikit.views.akulaku.AkulakuActivity
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:161:9-164:52
+	android:screenOrientation
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:164:13-49
+	android:configChanges
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:163:13-74
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:162:13-80
+service#com.midtrans.raygun.RaygunPostService
+ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:166:9-169:52
+	android:process
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:169:13-49
+	android:exported
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:168:13-37
+	android:name
+		ADDED from [com.midtrans:uikit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/95530e22b95a2066a811a716d69f1d70/jetified-uikit-1.21.2/AndroidManifest.xml:167:13-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:10:5-79
+MERGED from [com.midtrans:corekit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3d71ad886ac22e85dd3ab0cb52762585/jetified-corekit-1.21.2/AndroidManifest.xml:11:5-79
+MERGED from [com.midtrans:corekit:1.21.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/3d71ad886ac22e85dd3ab0cb52762585/jetified-corekit-1.21.2/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.2.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5cf0b0c27f5a331531f44a932cb7d8d0/firebase-iid-20.2.1/AndroidManifest.xml:42:25-78
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34a0e5d53ae61e749f2724a77a7fa61b/firebase-datatransport-17.0.3/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34a0e5d53ae61e749f2724a77a7fa61b/firebase-datatransport-17.0.3/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34a0e5d53ae61e749f2724a77a7fa61b/firebase-datatransport-17.0.3/AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.2] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/a6beb7a08bb153d99f4a6b1869466e43/firebase-installations-16.3.2/AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/30a5e5efffea178d4850e898d72978fb/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/5b13400bb39f7aabc7ec94e05102c005/jetified-play-services-auth-15.0.1/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/4c0b774c09d5393feb013f0dbe753af3/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/7e781b5da7d5fd7c7966949019e1ff31/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/7e781b5da7d5fd7c7966949019e1ff31/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/7e781b5da7d5fd7c7966949019e1ff31/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.5.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/8ac454d95813177e5639b2a4bf1e8513/jetified-zxing-android-embedded-3.5.0/AndroidManifest.xml:47:13-74
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/96b48096cc6858db55ff0b9cadbfdd91/transport-backend-cct-2.2.0/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/adisaputra/.gradle/caches/transforms-2/files-2.1/34066712d6449b2703aaeeeb718baf20/transport-runtime-2.2.0/AndroidManifest.xml:33:13-132
